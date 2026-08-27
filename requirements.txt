@@ -1,0 +1,9 @@
+fastapi[standard]
+sqlmodel
+python-dotenv
+requests
+python-jose
+passlib[bcrypt]
+openai
+chromadb
+telebot
